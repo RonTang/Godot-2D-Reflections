@@ -1,0 +1,15 @@
+[remap]
+
+importer="codeandweb.texturepacker_import_spritesheet"
+type="Resource"
+path="res://.import/god_walk.tpsheet-a7606b6588ca1167b6e46169d3656dbe.res"
+
+[deps]
+
+files=[ "res://Images/god_walk.sprites/Walk (10).tres", "res://Images/god_walk.sprites/Walk (2).tres", "res://Images/god_walk.sprites/Walk (9).tres", "res://Images/god_walk.sprites/Walk (11).tres", "res://Images/god_walk.sprites/Walk (8).tres", "res://Images/god_walk.sprites/Walk (5).tres", "res://Images/god_walk.sprites/Walk (3).tres", "res://Images/god_walk.sprites/Walk (4).tres", "res://Images/god_walk.sprites/Walk (6).tres", "res://Images/god_walk.sprites/Walk (7).tres", "res://Images/god_walk.sprites/Walk (1).tres", "res://Images/god_walk.sprites/Walk (12).tres", "res://Images/god_walk.sprites/Walk (13).tres" ]
+
+source_file="res://Images/god_walk.tpsheet"
+dest_files=[ "res://.import/god_walk.tpsheet-a7606b6588ca1167b6e46169d3656dbe.res", "res://Images/god_walk.sprites/Walk (10).tres", "res://Images/god_walk.sprites/Walk (2).tres", "res://Images/god_walk.sprites/Walk (9).tres", "res://Images/god_walk.sprites/Walk (11).tres", "res://Images/god_walk.sprites/Walk (8).tres", "res://Images/god_walk.sprites/Walk (5).tres", "res://Images/god_walk.sprites/Walk (3).tres", "res://Images/god_walk.sprites/Walk (4).tres", "res://Images/god_walk.sprites/Walk (6).tres", "res://Images/god_walk.sprites/Walk (7).tres", "res://Images/god_walk.sprites/Walk (1).tres", "res://Images/god_walk.sprites/Walk (12).tres", "res://Images/god_walk.sprites/Walk (13).tres" ]
+
+[params]
+

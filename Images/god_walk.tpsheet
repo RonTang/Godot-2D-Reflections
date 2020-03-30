@@ -1,0 +1,213 @@
+{
+	"textures": [
+		{
+			"image": "god_walk.png",
+			"size": {
+				"w": 282,
+				"h": 122
+			},
+			"sprites": [
+				{
+					"filename": "Walk (10).png",
+					"region": {
+						"x": 1,
+						"y": 1,
+						"w": 42,
+						"h": 58
+					},
+					"margin": {
+						"x": 17,
+						"y": 1,
+						"w": 51,
+						"h": 6
+					}
+				},
+				{
+					"filename": "Walk (2).png",
+					"region": {
+						"x": 1,
+						"y": 61,
+						"w": 38,
+						"h": 60
+					},
+					"margin": {
+						"x": 17,
+						"y": 1,
+						"w": 55,
+						"h": 4
+					}
+				},
+				{
+					"filename": "Walk (9).png",
+					"region": {
+						"x": 45,
+						"y": 1,
+						"w": 41,
+						"h": 59
+					},
+					"margin": {
+						"x": 18,
+						"y": 1,
+						"w": 52,
+						"h": 5
+					}
+				},
+				{
+					"filename": "Walk (11).png",
+					"region": {
+						"x": 41,
+						"y": 62,
+						"w": 39,
+						"h": 59
+					},
+					"margin": {
+						"x": 17,
+						"y": 1,
+						"w": 54,
+						"h": 5
+					}
+				},
+				{
+					"filename": "Walk (8).png",
+					"region": {
+						"x": 82,
+						"y": 62,
+						"w": 39,
+						"h": 59
+					},
+					"margin": {
+						"x": 18,
+						"y": 1,
+						"w": 54,
+						"h": 5
+					}
+				},
+				{
+					"filename": "Walk (5).png",
+					"region": {
+						"x": 88,
+						"y": 1,
+						"w": 38,
+						"h": 59
+					},
+					"margin": {
+						"x": 17,
+						"y": 1,
+						"w": 55,
+						"h": 5
+					}
+				},
+				{
+					"filename": "Walk (3).png",
+					"region": {
+						"x": 128,
+						"y": 1,
+						"w": 39,
+						"h": 58
+					},
+					"margin": {
+						"x": 18,
+						"y": 1,
+						"w": 54,
+						"h": 6
+					}
+				},
+				{
+					"filename": "Walk (4).png",
+					"region": {
+						"x": 169,
+						"y": 1,
+						"w": 39,
+						"h": 58
+					},
+					"margin": {
+						"x": 18,
+						"y": 1,
+						"w": 54,
+						"h": 6
+					}
+				},
+				{
+					"filename": "Walk (6).png",
+					"region": {
+						"x": 210,
+						"y": 1,
+						"w": 38,
+						"h": 58
+					},
+					"margin": {
+						"x": 17,
+						"y": 2,
+						"w": 55,
+						"h": 6
+					}
+				},
+				{
+					"filename": "Walk (7).png",
+					"region": {
+						"x": 123,
+						"y": 62,
+						"w": 38,
+						"h": 58
+					},
+					"margin": {
+						"x": 17,
+						"y": 2,
+						"w": 55,
+						"h": 6
+					}
+				},
+				{
+					"filename": "Walk (1).png",
+					"region": {
+						"x": 163,
+						"y": 61,
+						"w": 38,
+						"h": 57
+					},
+					"margin": {
+						"x": 17,
+						"y": 2,
+						"w": 55,
+						"h": 7
+					}
+				},
+				{
+					"filename": "Walk (12).png",
+					"region": {
+						"x": 203,
+						"y": 61,
+						"w": 38,
+						"h": 57
+					},
+					"margin": {
+						"x": 17,
+						"y": 2,
+						"w": 55,
+						"h": 7
+					}
+				},
+				{
+					"filename": "Walk (13).png",
+					"region": {
+						"x": 243,
+						"y": 61,
+						"w": 38,
+						"h": 57
+					},
+					"margin": {
+						"x": 17,
+						"y": 2,
+						"w": 55,
+						"h": 7
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a248ff6a517bc7bf401e19992cc21304:988f7353aeeca32fb2ea5f0d59252c01:f75ef866bdb0803bbb2a60204fe425b4$"
+	}
+}

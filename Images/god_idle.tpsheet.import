@@ -1,0 +1,15 @@
+[remap]
+
+importer="codeandweb.texturepacker_import_spritesheet"
+type="Resource"
+path="res://.import/god_idle.tpsheet-42f4d70bca985b2b5cdc2c548398a82c.res"
+
+[deps]
+
+files=[ "res://Images/god_idle.sprites/Idle (1).tres", "res://Images/god_idle.sprites/Idle (14).tres", "res://Images/god_idle.sprites/Idle (15).tres", "res://Images/god_idle.sprites/Idle (16).tres", "res://Images/god_idle.sprites/Idle (2).tres", "res://Images/god_idle.sprites/Idle (3).tres", "res://Images/god_idle.sprites/Idle (4).tres", "res://Images/god_idle.sprites/Idle (5).tres", "res://Images/god_idle.sprites/Idle (12).tres", "res://Images/god_idle.sprites/Idle (13).tres", "res://Images/god_idle.sprites/Idle (6).tres", "res://Images/god_idle.sprites/Idle (7).tres", "res://Images/god_idle.sprites/Idle (8).tres", "res://Images/god_idle.sprites/Idle (9).tres", "res://Images/god_idle.sprites/Idle (10).tres", "res://Images/god_idle.sprites/Idle (11).tres" ]
+
+source_file="res://Images/god_idle.tpsheet"
+dest_files=[ "res://.import/god_idle.tpsheet-42f4d70bca985b2b5cdc2c548398a82c.res", "res://Images/god_idle.sprites/Idle (1).tres", "res://Images/god_idle.sprites/Idle (14).tres", "res://Images/god_idle.sprites/Idle (15).tres", "res://Images/god_idle.sprites/Idle (16).tres", "res://Images/god_idle.sprites/Idle (2).tres", "res://Images/god_idle.sprites/Idle (3).tres", "res://Images/god_idle.sprites/Idle (4).tres", "res://Images/god_idle.sprites/Idle (5).tres", "res://Images/god_idle.sprites/Idle (12).tres", "res://Images/god_idle.sprites/Idle (13).tres", "res://Images/god_idle.sprites/Idle (6).tres", "res://Images/god_idle.sprites/Idle (7).tres", "res://Images/god_idle.sprites/Idle (8).tres", "res://Images/god_idle.sprites/Idle (9).tres", "res://Images/god_idle.sprites/Idle (10).tres", "res://Images/god_idle.sprites/Idle (11).tres" ]
+
+[params]
+
